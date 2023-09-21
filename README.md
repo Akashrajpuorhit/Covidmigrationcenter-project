@@ -10,6 +10,9 @@ this project uses javascript, html, css & java programming languages
  * uploading files
  * downloading reports
 
+# clone this project 
+ https://github.com/Akashrajpuorhit/Covidmigrationcenter-project.git
+
  # things you would need 
    * netbeans IDE 8.0 version
     after downloading the zip files unzip it and import it into the netbeans IDE
