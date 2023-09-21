@@ -1,0 +1,49 @@
+create database covidimigration1;
+
+use covidimigration1;
+
+create table register
+( username     varchar(100), 
+ password     varchar(100), 
+ phonenumber  varchar(100), 
+ address      varchar(100), 
+ email        varchar(100), 
+ adharnumber  varchar(100));
+
+
+create table statetab
+(
+ Statename  varchar(100), 
+ details    varchar(100));
+
+create table citytab
+(
+Cityname  varchar(100),
+details   varchar(100)
+);
+
+
+
+create table applycovid
+(
+ username         varchar(100), 
+ address          varchar(100), 
+ phonenumber      varchar(100), 
+ email            varchar(100), 
+ father           varchar(100), 
+ reason           varchar(100), 
+ date             varchar(100), 
+ choose           varchar(100), 
+ groups           varchar(100), 
+ sampleno         varchar(100), 
+ result           varchar(100), 
+ fromstate        varchar(100),
+ fromcity         varchar(100), 
+ tostate          varchar(100), 
+ tocity           varchar(100),
+ grantpermission  varchar(100));
+
+create table adminlogintab
+(
+ AdminName  varchar(100), 
+ Password   varchar(100)); 
