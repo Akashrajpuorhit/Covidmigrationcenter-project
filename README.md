@@ -15,4 +15,7 @@ this project uses javascript, html, css & java programming languages
     after downloading the zip files unzip it and import it into the netbeans IDE
     also dont forget to install  glasswork framework during IDE installation
 
+# important notice 
+ dont forget to unzip the "jar.rar" & "build.rar" .
+
 
